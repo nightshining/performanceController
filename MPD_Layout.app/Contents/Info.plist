@@ -456,7 +456,7 @@
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
-	<string>MPD24toOsc</string>
+	<string>MPD_Layout</string>
 	<key>CFBundleGetInfoString</key>
 	<string>6.0.3, Copyright 2010 Cycling '74</string>
 	<key>CFBundleIconFile</key>
